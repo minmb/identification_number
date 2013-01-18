@@ -1,0 +1,1 @@
+# -*- mode: ruby; tab-width: 2; indent-tabs-mode: nil; encoding: utf-8 -*-
